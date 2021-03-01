@@ -1,4 +1,4 @@
-### Who am I
+### Who am I 🐱‍💻
 
 #### Check my [Blog](https://blog.juho.kim)!
 
