@@ -13,7 +13,8 @@ But it is on constructing...
 
 #### Done
 
-- React, React Native, Typescript
+- React, React Native
+- Javascript, Typescript
 - Activemq, Camel, AmazonMQ
 - Developing Reservation System
 - Importing Salesforce
