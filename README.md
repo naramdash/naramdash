@@ -1,8 +1,8 @@
-### naram.dash. It is me!
+### Who am I
 
-#### [Blog](https://blog.juho.kim)
+#### Check my [Blog](https://blog.juho.kim)!
 
-On constructing...
+But it is on constructing...
 
 #### WANT TO
 
