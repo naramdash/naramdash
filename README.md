@@ -6,6 +6,7 @@ But it is on constructing...
 
 #### WANT TO
 
+- F#, Dotnet
 - Functional Programming
 - Domain Driven Design
 - Requirements engineering
