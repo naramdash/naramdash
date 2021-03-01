@@ -1,17 +1,19 @@
-### Hi there 👋
+### naram.dash. It is me!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 💙 I love : ...
-<!--
-**naram-dash/naram-dash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### [Blog](https://blog.juho.kim)
 
-Here are some ideas to get you started:
+On constructing...
 
--->
+#### WANT TO
+
+- Functional Programming
+- Domain Driven Design
+- Requirements engineering
+- Software Engineering
+
+#### Done
+
+- React, React Native, Typescript
+- Activemq, Camel, AmazonMQ
+- Developing Reservation System
+- Importing Salesforce
