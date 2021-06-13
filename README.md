@@ -2,8 +2,6 @@
 
 #### Check my [Blog](https://blog.juho.kim)!
 
-But it is on constructing...
-
 #### WANT TO
 
 - F#, Dotnet
