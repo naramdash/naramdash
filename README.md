@@ -2,18 +2,24 @@
 
 #### Check my [Blog](https://blog.juho.kim)!
 
-#### WANT TO
+#### 😻want ➡️ 
 
-- F#, Dotnet
-- Functional Programming
-- Domain Driven Design
-- Requirements engineering
-- Software Engineering
+- F#
+- Rust
+- Vue.js
+- web-graphics
+- PostgreSQL
 
-#### Done
+#### 🤪now ➡️ 
 
-- React, React Native
-- Javascript, Typescript
-- Activemq, Camel, AmazonMQ
-- Developing Reservation System
-- Importing Salesforce
+- Pixi.js
+- Vue.js
+- Typescript
+- Real-time monitoring system on Web Client
+- Replay(playback) system from historical data on manufacturing production facilities on Web Client
+
+#### Done ➡️ 
+- React(Native)
+- Javascript
+- Activemq Camel AmazonMQ
+- Reservation system for apartment complexes
