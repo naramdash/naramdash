@@ -5,7 +5,7 @@
 #### 😻want ➡️ 
 
 - F#
-- Rust
+- Gleam (Erlang, Elixir)
 - Vue.js
 - web-graphics
 - PostgreSQL
